@@ -27,7 +27,7 @@
 <li><a href="#features">产品特性</a></li>
 <li><a href="#plans">部分套餐</a></li>
 <li><a href="#review">顾客评价</a></li>
-<li><a href="#team">客户端</a></li>
+<li><a href="#team">客户端下载</a></li>
 <li><a href="#faqs">问题解答</a></li>
 <li><a href="#contact">联系我们</a></li>
 </ul>
@@ -42,7 +42,7 @@
 <li><a href="#features">产品特性</a></li>
 <li><a href="#plans">部分套餐</a></li>
 <li><a href="#review">顾客评价</a></li>
-<li><a href="#team">客户端</a></li>
+<li><a href="#team">客户端下载</a></li>
 <li><a href="#faqs">问题解答</a></li>
 <li><a href="#contact">联系我们</a></li>
 </ul>
@@ -491,7 +491,7 @@
 <div class="section-header align-center">
 <div class="row">
 <div class="col-md-6 block-center">
-<h2>客户端</h2>
+<h2>客户端下载</h2>
 <p>{$config["appName"]}依托开源的客户端，可稳定运行在最新Windows 10、Mac OS X El Capitan 10.11，Android Marshmallow以及Ubuntu等Linux发行版本。</p>
 </div>
 </div>
@@ -500,7 +500,7 @@
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-apple"></i></a>
-<p><a href="https://www.lanzous.com/i66x81e/#/mac" target="_blank" class="btn btn-primary">Mac OSX 版本下载</a></p>
+<p><a href="https://www.lanzous.com/i66x81e/#/mac" target="_blank" class="btn btn-primary">苹果电脑 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
@@ -512,13 +512,13 @@
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-android"></i></a>
-<p><a href="https://www.lanzous.com/i66wq3i/#/android" target="_blank" class="btn btn-primary">Android 版本下载</a></p>
+<p><a href="https://www.lanzous.com/i66wq3i/#/android" target="_blank" class="btn btn-primary">安卓手机 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-iphone"></i></a>
-<p><a href="https://www.lanzous.com/i66x9dc/#/ios" target="_blank" target="_blank" class="btn btn-primary">iOS 软件下载</a></p>
+<p><a href="https://www.lanzous.com/i66x9dc/#/ios" target="_blank" target="_blank" class="btn btn-primary">苹果手机 版本下载</a></p>
 </div>
 </div>
 </div>
