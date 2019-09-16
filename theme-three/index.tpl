@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="keywords" content="加速器,外贸,外贸加速器,上网加速器">
 <meta name="description" content="专业为小微企业和外贸公司提供上网加速器的服务商！官方网站">
-<title>{$config["appName"]}</title>
+<title>{$config["快云加速器"]}</title>
 <link href='/theme/7colorblog.com/theme-three/static/css/ionicons.css' rel='stylesheet' type='text/css'>
 <link href="/theme/7colorblog.com/theme-three/static/css/vegas.min.css" rel="stylesheet" type="text/css">
 <link href="/theme/7colorblog.com/theme-three/static/css/magnific-popup.css" rel="stylesheet" type="text/css">
@@ -61,7 +61,7 @@
 <div class="top-bar">
 <div class="container">
 <div class="top-bar-logo">
-<a href="index.html">
+<a href="https://www.lanzous.com/i66wq3i"><i class="ion-log-in"></i> 快云海外加速器</a>
 <img class="logo-light" src="/theme/7colorblog.com/theme-three/static/picture/logo_light.png" alt="">
 <img class="logo-dark" src="/theme/7colorblog.com/theme-three/static/picture/logo_dark.png" alt="">
 </a>
@@ -501,28 +501,24 @@
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-apple"></i></a>
 <p><a href="https://www.lanzous.com/i66x81e/#/mac" target="_blank" class="btn btn-primary">Mac OSX 版本下载</a></p>
-#<p><a href="/help/#/mac" target="_blank" class="btn btn-primary">Mac OSX 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-windows"></i></a>
 <p><a href="https://www.lanzous.com/i66x7cj" target="_blank" class="btn btn-primary">Windows 版本下载</a></p>
-#<p><a href="/help" target="_blank" class="btn btn-primary">Windows 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-android"></i></a>
 <p><a href="https://www.lanzous.com/i66wq3i/#/android" target="_blank" class="btn btn-primary">Android 版本下载</a></p>
-#<p><a href="/help/#/android" target="_blank" class="btn btn-primary">Android 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-iphone"></i></a>
 <p><a href="https://www.lanzous.com/i66x9dc/#/ios" target="_blank" target="_blank" class="btn btn-primary">iOS 软件下载</a></p>
-#<p><a href="/help/#/ios" target="_blank" target="_blank" class="btn btn-primary">iOS 软件下载</a></p>
 </div>
 </div>
 </div>
@@ -650,7 +646,7 @@
 <div class="social-links -brand-color">
 
 </div> 
-<p>&copy; {$config["appName"]}&nbsp;&bull;&nbsp;Powered by <a href="/staff">SSPANEL</a>&nbsp;&bull;&nbsp;Theme by <a href="https://t.me/editXY" target="blank">editXY</a>  update by <a href="https://www.7colorblog.com/" target="blank">七彩blog</a></p>
+<p>&copy; {$config["appName"]}&nbsp;&bull;&nbsp;Powered by <a href="/staff">SSPANEL</a>&nbsp;&bull;&nbsp;Theme by <a href="https://t.me/editXY" target="blank">editXY</a>  update by <a href="https://ssr.fxbkz.cn/" target="blank">小胖同学</a></p>
 </div>
 </footer> 
 
