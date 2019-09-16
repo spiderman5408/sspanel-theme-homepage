@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="keywords" content="加速器,外贸,外贸加速器,上网加速器">
 <meta name="description" content="专业为小微企业和外贸公司提供上网加速器的服务商！官方网站">
-<title>{$config["快云加速器"]}</title>
+<title>{$config["appName"]}</title>
 <link href='/theme/7colorblog.com/theme-three/static/css/ionicons.css' rel='stylesheet' type='text/css'>
 <link href="/theme/7colorblog.com/theme-three/static/css/vegas.min.css" rel="stylesheet" type="text/css">
 <link href="/theme/7colorblog.com/theme-three/static/css/magnific-popup.css" rel="stylesheet" type="text/css">
