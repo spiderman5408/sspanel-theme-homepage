@@ -500,25 +500,29 @@
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-apple"></i></a>
-<p><a href="/help/#/mac" target="_blank" class="btn btn-primary">Mac OSX 版本下载</a></p>
+<p><a href="https://www.lanzous.com/i66x81e/#/mac" target="_blank" class="btn btn-primary">Mac OSX 版本下载</a></p>
+#<p><a href="/help/#/mac" target="_blank" class="btn btn-primary">Mac OSX 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-windows"></i></a>
-<p><a href="/help" target="_blank" class="btn btn-primary">Windows 版本下载</a></p>
+<p><a href="https://www.lanzous.com/i66x7cj" target="_blank" class="btn btn-primary">Windows 版本下载</a></p>
+#<p><a href="/help" target="_blank" class="btn btn-primary">Windows 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-android"></i></a>
-<p><a href="/help/#/android" target="_blank" class="btn btn-primary">Android 版本下载</a></p>
+<p><a href="https://www.lanzous.com/i66wq3i/#/android" target="_blank" class="btn btn-primary">Android 版本下载</a></p>
+#<p><a href="/help/#/android" target="_blank" class="btn btn-primary">Android 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-iphone"></i></a>
-<p><a href="/help/#/ios" target="_blank" target="_blank" class="btn btn-primary">iOS 软件下载</a></p>
+<p><a href="https://www.lanzous.com/i66x9dc/#/ios" target="_blank" target="_blank" class="btn btn-primary">iOS 软件下载</a></p>
+#<p><a href="/help/#/ios" target="_blank" target="_blank" class="btn btn-primary">iOS 软件下载</a></p>
 </div>
 </div>
 </div>
