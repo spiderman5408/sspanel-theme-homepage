@@ -60,7 +60,7 @@
 				<li><a href="#service">特性</a></li>
 				<li><a href="#commit">承诺</a></li>
 				<li class="small-logo"><a href="#header"><img src="/theme/7colorblog.com/theme-one/static/picture/small-logo.png" alt=""></a></li>
-				<li><a href="#client">客户端</a></li>
+				<li><a href="https://www.lanzous.com/i66yghe#client">客户端</a></li>
 				<li><a href="#contact">联络</a></li>
 			</ul>
 			<a class="res-nav_click" href="#"><i class="fa fa-bars"></i></a>
