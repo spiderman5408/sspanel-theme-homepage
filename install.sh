@@ -36,7 +36,7 @@ echo "--------------------------------------------------------------------------
 echo -e "请注意:“网站目录默认是你的域名，例如/www/wwwroot/w.2q.gs"
 stty erase '^H' && read -p "请输入宝塔面板添加的网站目录,默认地址（例如:w.2q.gs，不带http/https）：" website
 themetype="theme-one"
-githubUrl="https://raw.githubusercontent.com/lizhongnian/sspanel-theme-homepage/master"
+githubUrl="https://raw.githubusercontent.com/spiderman5408/sspanel-theme-homepage/master"
 #日志
 echo -e "\033[34m=============================================================================\033[0m"
 echo -e "\033[31m       	———————————————请选择安装sspanel-theme-homepage前方的数字———————————————————\033[0m"
@@ -191,6 +191,6 @@ echo -e "${Info} 部署完成，请打开$website即可浏览,ctrl+f5刷新浏�
 echo -e "${Info} 默认会将你的默认index.tpl备份重命名为 $themetype.tpl"
 echo -e "${Info} 打不开站点请将备份的tpl文件改回去即可"
 echo -e "${Info} 自定义配置，请打开/www/wwwroot/$website//resources/views/material/index.tpl进行修改"
-echo -e "${Info} github地址:https://github.com/lizhongnian/sspanel-theme-homepage"
+echo -e "${Info} github地址:https://github.com/spiderman5408/sspanel-theme-homepage"
 echo -e "${Info} 博客地址:https://www.7colorblog.com/"
 echo "--------------------------------------------------------------------------------"
