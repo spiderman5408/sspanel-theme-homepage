@@ -214,7 +214,7 @@
 					</div>
 					<div class="contact-info-box phone clearfix">
 						<h3><i class="fa fa-phone"></i>Phone:</h3>
-						<span>+1 315-996-1004</span>
+						<span>+1 315-336-9004</span>
 					</div>
 					<div class="contact-info-box email clearfix">
 						<h3><i class="fa fa-home"></i>Email:</h3>
@@ -226,7 +226,7 @@
 					</div>
                   		<div class="contact-info-box hours clearfix">
 						<h3><i class="fa fa-qq"></i>QQ:</h3>
-						<span><a href="http://wpa.qq.com/msgrd?uin=1806645549" target="_blank"><i class="fa fa-qq"></i>QQ咨询(1806645549)</a></span>
+						<span><a href="http://wpa.qq.com/msgrd?uin=540878139" target="_blank"><i class="fa fa-qq"></i>QQ咨询(1806645549)</a></span>
 					</div>
 	
 				</div>
@@ -245,7 +245,8 @@
 			<span class="copyright">&copy; <a href="#">{$config["appName"]}</a>. All Rights Reserved</span>
 			<div class="credits">
 	
-				Designed by <a href="https://www.7colorblog.com/">七彩blog</a>
+				Designed by <a href="https://www.baidu.com/">七彩blog</a>
+				#Designed by <a href="https://www.7colorblog.com/">七彩blog</a>
 			</div>
 		</div>
 	</footer>
