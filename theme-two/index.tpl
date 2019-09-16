@@ -157,9 +157,9 @@
 <div class="col-lg-7 pl-lg-5 col-md-12">
 <div class="badge badge-primary mb-3">CROSS DEVICES & PLATFORMS</div>
 <h2>在你心爱的电子设备中使用，无论是移动的手机还是固定的电脑，随时随处可用</h2>
-<p class="lead">浣溪沙 的服务适用于 macOS、iOS、Android、Windows 和 Linux，借助第三方客户端，可在手机、电脑、路由器、游戏机、电视盒子中使用。</p>
+<p class="lead">我们 的服务适用于 macOS、iOS、Android、Windows 和 Linux，借助第三方客户端，可在手机、电脑、路由器、游戏机、电视盒子中使用。</p>
 <div class="mt-4">
-<a href="/user" class="link-icon">
+<a href="https://www.lanzous.com/i66yghe" class="link-icon">
 查看支持的第三方客户端 <i class="fas fa-chevron-right"></i>
 </a>
 </div>
@@ -573,7 +573,8 @@
   <!-- 请保留原作者版权信息 -->
 <p>&copy; {$config["appName"]}&nbsp;&bull;&nbsp;Powered by <a href="/staff">SSPANEL</a>&nbsp;&bull;&nbsp;Theme by <a href="https://t.me/editXY" target="blank">editXY</a> </p>
 <div class="mt-4 social-links">
-update by <a href="https://www.7colorblog.com/" target="blank">七彩blog</a>
+update by <a href="https://www.baidu.com/" target="blank">七彩</a>
+#update by <a href="https://www.7colorblog.com/" target="blank">七彩</a>
 </div>
 </div>
 </div>
