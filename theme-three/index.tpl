@@ -506,7 +506,7 @@
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-social-windows"></i></a>
-<p><a href="https://www.lanzous.com/i66x7cj" target="_blank" class="btn btn-primary">Windows 版本下载</a></p>
+<p><a href="https://www.lanzous.com/i692b2f" target="_blank" class="btn btn-primary">Windows 版本下载</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
