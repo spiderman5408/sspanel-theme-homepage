@@ -646,7 +646,7 @@
 <div class="social-links -brand-color">
 
 </div> 
-<p>&copy; {$config["appName"]}&nbsp;&bull;&nbsp;Powered by <a href="/staff">SSPANEL</a>&nbsp;&bull;&nbsp;Theme by <a href="https://t.me/editXY" target="blank">editXY</a>  update by <a href="https://ssr.fxbkz.cn/" target="blank">小胖同学</a></p>
+<p>&copy; {$config["appName"]}&nbsp;&bull;&nbsp;Powered by <a href="/staff">快云海外加速器</a>&nbsp;&bull;&nbsp;Theme by <a href="http://152.136.169.141" target="blank">editXY</a>  update by <a href="http://152.136.169.141/" target="blank">小胖同学</a></p>
 </div>
 </footer> 
 
