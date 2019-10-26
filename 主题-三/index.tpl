@@ -61,7 +61,7 @@
 <div class="top-bar">
 <div class="container">
 <div class="top-bar-logo">
-<a href="https://www.lanzous.com/i66wq3i"><i class="ion-log-in"></i> 快云海外加速器</a>
+<a href="https://www.lanzous.com/i66wq3i"><i class="ion-log-in"></i> 蜂巢加速器</a>
 <img class="logo-light" src="/theme/7colorblog.com/theme-three/static/picture/logo_light.png" alt="">
 <img class="logo-dark" src="/theme/7colorblog.com/theme-three/static/picture/logo_dark.png" alt="">
 </a>
@@ -646,7 +646,7 @@
 <div class="social-links -brand-color">
 
 </div> 
-<p>&copy; {$config["appName"]}&nbsp;&bull;&nbsp;Powered by <a href="/staff">快云海外加速器</a>&nbsp;&bull;&nbsp;Theme by <a href="http://www.888nba.top/" target="blank">editXY</a>  update by <a href="http://www.888nba.top/" target="blank">小胖同学</a></p>
+<p>&copy; {$config["appName"]}&nbsp;&bull;&nbsp;Powered by <a href="/staff">蜂巢加速器</a>&nbsp;&bull;&nbsp;Theme by <a href="http://www.888bbc.top/" target="blank">editXY</a>  update by <a href="http://www.888bbc.top/" target="blank">小胖同学</a></p>
 </div>
 </footer> 
 
