@@ -87,8 +87,8 @@
 <h3 class="head-title" style="color:white;">{$config["appName"]}</h3>
 <div class="btn-panel">
 
-<p style="font-size: 1.4em">顶尖加密，安全稳定，怎一个快字了得</p>
-<p> 提供服务：youtube,google,facebook等全球海量网站任您冲浪。隐私保护，数据加密，高速视频，游戏加速，全球社交，海外业务，设计开发，留学科研，快速、稳定的网络优化服务。</p>
+<p style="font-size: 1.4em">顶尖加密，安全稳定，网速极快</p>
+<p> 提供服务：隐私保护，数据加密，高速视频，游戏加速，全球社交，海外业务，设计开发，留学科研，快速、稳定的网络优化服务。</p>
 <a class="btn btn-lg btn-primary" href="/user">立即使用</a><br><br>
 </div>
 </div>
