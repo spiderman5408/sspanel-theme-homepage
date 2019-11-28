@@ -61,7 +61,7 @@
 <div class="top-bar">
 <div class="container">
 <div class="top-bar-logo">
-<a href="https://www.lanzous.com/i66wq3i"><i class="ion-log-in"></i> 蜂巢加速器</a>
+<a href="https://shang.qq.com/wpa/qunwpa?idkey=067b752644b6ca1fae9338f4ef8dbf1de69f70617188775fd16b86d3f6dadd1a"><i class="ion-log-in"></i> 蜂巢加速器（年费仅需59元即可享受500兆超大宽带节点全年极速冲浪体验）</a>
 <img class="logo-light" src="/theme/7colorblog.com/theme-three/static/picture/logo_light.png" alt="">
 <img class="logo-dark" src="/theme/7colorblog.com/theme-three/static/picture/logo_dark.png" alt="">
 </a>
