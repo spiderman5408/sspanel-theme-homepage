@@ -49,7 +49,7 @@
 </div>
 <div class="social-links brand-color">
 <p>加入群组</p>
-<a class="twitter" href="https://t.me/换成你自己的tg链接" target="_blank"><i class="fp-icon ion-ios-navigate"></i></a>
+<a class="twitter" href="https://shang.qq.com/wpa/qunwpa?idkey=067b752644b6ca1fae9338f4ef8dbf1de69f70617188775fd16b86d3f6dadd1a" target="_blank"><i class="fp-icon ion-ios-navigate"></i></a>
 </div>
 </div>
 <a class="fp-close" href="#"><i class="ion-close"></i></a>
@@ -613,7 +613,7 @@
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-ios-navigate"></i></a>
-<p><a href="https://t.me/换成你自己的tg链接" target="_blank" class="btn btn-primary">Telegram</a></p>
+<p><a href="https://shang.qq.com/wpa/qunwpa?idkey=067b752644b6ca1fae9338f4ef8dbf1de69f70617188775fd16b86d3f6dadd1a" target="_blank" class="btn btn-primary">Telegram</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
@@ -625,7 +625,7 @@
 <div class="col-md-3 col-sm-6 col-xs-6">
 <div style="text-align:center">
 <a style="font-size:4em;"><i class="fp-icon ion-email"></i></a>
-<p><a href="mailto:lizhongnian@7colorblog.com" target="_blank" class="btn btn-primary">Email</a></p>
+<p><a href="mailto:nice9527@vip.qq.com" target="_blank" class="btn btn-primary">Email</a></p>
 </div>
 </div>
 <div class="col-md-3 col-sm-6 col-xs-6">
